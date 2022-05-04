@@ -104,6 +104,7 @@ color: black;
     padding-left: 10px;
     border: 1px solid var(--text-color);
     margin-right: 10px;
+    resize: none;
 
 }
 .right form input{
@@ -125,16 +126,16 @@ color: black;
  }
  
  .right form .btn button{
-     height: 30px;
+     padding: 9px;
      width: 100%;
      background: none;
-     font-size: 17px;
+     font-size: 12px;
      font-weight: 500;
      cursor: pointer;
      transition: 0.3s;
      color: white;
      border: 1px solid white;
-     padding: 10px;
+    
     
  }
 

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2? family= Seaweed+Script & display=swap');
+.container-body {
+    display: flex;
+  
+    height: 555px;
+}
+.container-body div{
+    width: 33%;
+    padding: 0 19px 0 19px;
+}
+.container-body div a{
+    color: var(--primary-color);
+    font-family: 'Seaweed Script', cursiva;
+    font-size: 50px;
+}
+#text1{
+    position: relative;
+}
+
+#text-linhas-yogurte{
+    position: absolute;
+    bottom: 0;
+}
