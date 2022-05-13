@@ -13,6 +13,9 @@
   --shadow-color:#ccc;
   --text-color:#fff;
 }
+#menu-dropdown{
+  color:black;
+}
 .header{
   background-color: var(--secudary-color);
   height: 30px;
@@ -30,7 +33,7 @@
   color: var(--primary-color);
 }
 a{
-  color: var(--text-color);
+  
   text-decoration: none;
   transition: 0.3s;
 }
@@ -48,7 +51,8 @@ nav{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   height: 8vh;
   background-color: var(--primary-color) ;
-  padding:0 10px 0 10px
+  padding:0 10px 0 10px;
+  color:var(--text-color)
    
 }
 main{
@@ -60,9 +64,11 @@ main{
   list-style: none;
   display: flex;
   align-items: center;
+  
 }
 .nav-list div{
   margin-right:10px ;
+  color: var(--text-color);
 }
 .nav-list li{
   letter-spacing: 3px;
@@ -141,3 +147,43 @@ transform: rotate(-45deg) translate(-8px,8px);
 /* </nav> */
 
 
+.dp-menu ul{
+   list-style-type: none;
+   padding: 0;
+   right: 0px;
+   text-align: right;
+}
+
+.dp-menu ul{
+ background-color: var(--secudary-color);
+ 
+}
+
+.dp-menu ul li{
+ display: inline;
+ position: relative;
+}
+
+.dp-menu ul li a{
+color: var(--primary-color);
+ text-decoration: none;
+ padding: 10px;
+ display: inline-block;
+}
+
+ /*
+ sub menu*/
+
+ .dp-menu ul ul{
+  display: none;
+  position: absolute;
+ }
+
+
+ .dp-menu ul li:hover ul{
+  display: block;
+ }
+
+ .dp-menu ul ul li a{
+   display: block;
+ }

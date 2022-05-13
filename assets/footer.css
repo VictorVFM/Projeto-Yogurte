@@ -2,13 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: var(--text-color);
+    
 }
 footer{
     position: fixed;
     bottom: 0px;
     width: 100%;
     background: #535272;
+    color: var(--text-color);
+}
+
+footer a{
+    color: var(--text-color);
 }
 .main-content{
     display: flex;
