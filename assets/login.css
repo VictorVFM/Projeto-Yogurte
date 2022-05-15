@@ -1,7 +1,8 @@
 body{
     background-image: url(../images/Image-Login.png);
-    background-size: cover;
+    background-size: 150vh ;
     background-repeat: no-repeat;
+    
 }
 
 .tela-login{
@@ -11,12 +12,13 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    padding: 100px 150px 100px 150px;
+    padding: 5vh 7.5vw 5vh 7.5vw;
     border-radius: 4vw;
     color: white;    
 }
 input{
-    padding: 10px 150px 10px 10px;
+    padding: 10px 0px 10px 10px;
+    width: 25vw;
     border: none;
     outline: none;
     font-size: 20px;
@@ -26,13 +28,14 @@ button{
     background-color: var(--primary-color);
     border: none;
     padding: 0.5vw 2vw 0.5vw 2vw;  
-    border-radius: 20px;
+    border-radius: 20px !important;
     color: white;
     font-size: 1vw;
     transition: box-shadow 0.4s ease;
 }
 .button{
     text-align: center;
+    margin-top: 1vh;
 }
 button:hover{
     cursor: pointer;
@@ -48,8 +51,12 @@ h1{
 
 p{
     color: var(--primary-color);
+    font-size: 22px;
 }
 
+#aviso{
+    color:var(--primary-color)
+}
 p a{
     color: var();
 }
