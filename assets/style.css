@@ -155,8 +155,7 @@ transform: rotate(-45deg) translate(-8px,8px);
 }
 
 .dp-menu ul{
- background-color: var(--secudary-color);
- 
+ background-color: var(--secudary-color); 
 }
 
 .dp-menu ul li{

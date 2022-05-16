@@ -1,14 +1,11 @@
 <!doctype html>
 <html lang="pt-br">
   <head>
-    <link rel="stylesheet" href="../assets/login.css">
+    
     <link rel="stylesheet" href="../assets/style.css">
-    <style>
-      body{
-        background-image: url(../images/image-cadastro.jpg);
-      }
-    </style>
- 
+    <link rel="stylesheet" href="../assets/cadastro.css">
+
+    <script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,34 +26,54 @@
     <title>Cadastro</title>
   </head>
   <body>
+    <nav>
+      <a class="logo" href="/"><img src="../images/logo.png" alt=""></a>
+      <div class="mobile-menu">
+           <div class="line1"></div>
+           <div class="line2"></div>
+           <div class="line3"></div>
+  </div>
+  <ul class="nav-list">
+    <div><a href="html/login.html">Login</a></div><div>|</div></div><div><a href="html/cadastro.html">Cadastre-se</a></div><i class="fa-solid fa-user"></i>
+  </ul></nav>
 
-    <div class="tela-login">
+  <div class="dp-menu">
+      <ul id="menu-dropdown">
+          <li><a href="#">Produtos</a><i class="fa-solid fa-angle-down"></i>
+          <ul>
+              <li><a href="#">Produto1</a></li>
+              <li><a href="#">Produto2</a></li>
+              <li><a href="#">Produto3</a></li>
+              <li><a href="#">Produto4</a></li>
+             
+          </ul>
+      </li>
+          <li><a href="#">Saiba Mais</a></li>
+          <li><a href="#">Receitas</a></li>
+      </ul>
+  </div>
+
+    <div class="tela-cadastro">
       <form action="#">
         <h1>Cadastre-se</h1>
+        <p>Nome Completo</p>
+        <input type="text" name="" id="nome"  required>
+        <br><br>
         <p>E-mail</p>
-        <input type="email" name="" id="login" placeholder="E-mail" required>
+        <input type="email" name="" id="login"  required>
         <br><br>
-        <p>Confirme seu e-mail</p>
-        <input type="email" name="" id="login" placeholder="Confirme seu e-mail" required>
-        <br><br>
+        
         <p>Senha</p>
-        <input type="password" name="" id="password" placeholder="Senha" required>
+        <input type="password" name="" id="password" required>
         <br><br>
-        <p>Confirme sua senha</p>
-        <input type="password" name="" id="password" placeholder="Confirme sua senha" required>
-        <br><br>
+        
         <p>Telefone</p>
-        <input type="text" name="" id="telefone" maxlength="" placeholder="Telefone" required>
+        <input type="text" name="" id="telefone" maxlength="" required>
         <br><br>
-        <p>Confirme seu telefone</p>
-        <input type="text" name="" id="telefone-repeat" maxlength="" placeholder="Confirme seu telefone" required>
-        <br><br>
+        
         <p>Endereço</p>
-        <input type="text" name="" id="endereco" placeholder="Endereço" required>
-        <br><br>
-        <p>Confirme seu endereço</p>
-        <input type="text" name="" id="endereco-repeat" maxlength="" placeholder="Confirme seu endereço" required>
-     
+        <input type="text" name="" id="endereco" required>
+        
      
      
       <div id="erro"></div>
