@@ -10,7 +10,7 @@
     
 }
 .container-body div a{
-    color: var(--primary-color);
+    color: var(--text-color);
     font-family: 'Seaweed Script', cursiva;
     font-size: 50px;
     margin: 0 0 0 30px;
