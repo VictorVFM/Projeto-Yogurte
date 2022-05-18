@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2? family= Seaweed+Script & display=swap');
 .container-body {
     display: flex;
-  
+  z-index: 0;
     height: 65vh;
 }
 .container-body div{
@@ -10,7 +10,7 @@
     
 }
 .container-body div a{
-    color: var(--text-color);
+     color: var(--primary-color) !important;
     font-family: 'Seaweed Script', cursiva;
     font-size: 50px;
     margin: 0 0 0 30px;
@@ -24,7 +24,7 @@
 }
 #image2{
     position: relative;
-    background-image: url(../images/image2.jpg);
+    background-image: url(../images/image4.jpeg);
     background-repeat: no-repeat, no-repeat;
     background-position: right, left;
     background-size: cover; 

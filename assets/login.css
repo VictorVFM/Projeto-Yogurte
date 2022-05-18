@@ -1,11 +1,11 @@
 body{
     background-image: url(../images/Image-Login.png);
-    background-size: 200vh ;
+    background-size: 220vh ;
     background-repeat: no-repeat;
     
 }
 
-.tela-cadastro{
+.tela-login{
     background-color: #E2DBE3;
     opacity: 75%;
     position: absolute;
@@ -58,5 +58,6 @@ p{
     color:var(--primary-color)
 }
 p a{
-    color: var();
+    color: var(--primary-color)!important;
+    text-decoration: underline !important;
 }

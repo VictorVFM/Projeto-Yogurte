@@ -1,0 +1,20 @@
+
+
+#loja-teste{
+   
+    margin-bottom: 30px;
+    border: 1px solid black;
+    
+}
+
+
+#loja-teste1{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+#loja-teste1 div{
+    display: flex;
+    margin-bottom: 30px;
+    margin: 20px;
+}

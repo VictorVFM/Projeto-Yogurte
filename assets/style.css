@@ -32,9 +32,12 @@
 .header .fa-solid{
   color: var(--primary-color);
 }
+.fa-circle-user{
+  font-size: xx-large;
+}
 a{
-  color: var(--text-color);
-  text-decoration: none;
+  color: var(--text-color) !important;
+  text-decoration: none !important;
   transition: 0.3s;
 }
 a:hover{
@@ -164,7 +167,7 @@ transform: rotate(-45deg) translate(-8px,8px);
 }
 
 .dp-menu ul li a{
-color: var(--primary-color);
+color: var(--primary-color) !important;
  text-decoration: none;
  padding: 10px;
  display: inline-block;
@@ -181,7 +184,7 @@ color: var(--primary-color);
 
  .dp-menu ul li:hover ul{
   display: block;
-  
+  z-index: 1;
  }
 
  .dp-menu ul ul li a{
@@ -240,10 +243,5 @@ color: var(--primary-color);
   margin-top: 2vh;
 }
 
-h1{
-  margin-left: 2vw;
-  color: #D7D463;
-  font-family: 'Seaweed Script', cursiva;
-  font-size: 4vw;
-}
+
 /*end  body */
