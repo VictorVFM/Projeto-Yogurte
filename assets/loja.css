@@ -3,18 +3,41 @@
 #loja-teste{
    
     margin-bottom: 30px;
-    border: 1px solid black;
+  
     
 }
 
 
 #loja-teste1{
-    border: 1px solid red;
+   
     display: flex;
     justify-content: center;
+    margin-bottom: 20vh;
 }
-#loja-teste1 div{
-    display: flex;
-    margin-bottom: 30px;
-    margin: 20px;
+#loja-teste1 div{   
+  
+    width: 349px;
+    height: 414px;
+    border-radius: 50px;
 }
+.loja-image{
+    background-color: gray;
+    
+    margin: 30px 30px 30px 30px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+.loja-image button{
+    background-color: #d7d463;
+    padding: 7px 40px 7px 40px;
+border-radius: 25px;
+border: none;
+}
+
+.loja-image h3{
+color: var(--laranja);
+}
+.loja-image p{
+    margin-top: 5px;
+    }
