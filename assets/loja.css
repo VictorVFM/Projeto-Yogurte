@@ -15,9 +15,8 @@
     margin-bottom: 20vh;
 }
 #loja-teste1 div{   
-  
-    width: 349px;
-    height: 414px;
+    
+   
     border-radius: 50px;
 }
 .loja-image{
@@ -33,6 +32,7 @@
     padding: 7px 40px 7px 40px;
 border-radius: 25px;
 border: none;
+margin-left: 20px;
 }
 
 .loja-image h3{
@@ -41,3 +41,20 @@ color: var(--laranja);
 .loja-image p{
     margin-top: 5px;
     }
+ 
+.loja-image div i{
+font-size: 25px;
+
+}    
+.loja-image div i:hover{
+color: green;
+cursor: pointer;
+        
+} 
+    
+
+
+.image{
+    width: 349px;
+    height: 414px;
+}
