@@ -1,10 +1,12 @@
-#table{
+.container{
 justify-content: center;
 margin-top:1vh;
 margin-bottom: 35vh;
 text-align: center;
-border-top: 1px solid black;
-margin: 1vh 11vw 30vh 11vw;
+
+
+margin: 20vh 11vw 35vh 11vw;
+
 }
 
 #tr{
@@ -13,19 +15,20 @@ margin: 1vh 11vw 30vh 11vw;
 
 }
 #th{
-    margin-right: 5vw;
+   
     font-weight: bold;
     text-align: center;
     justify-content: center;
-    width: 10vw;
+    justify-items: center;
     color: var(--primary-color);
 }
 
 #td{
-    margin-right: 5vw;
+    /* margin-right: 5vw; */
     text-align: center;
     justify-content: center;
-    width: 10vw ;
+    justify-items: center;
+    
 }
 
 h1{
@@ -37,4 +40,38 @@ h1{
 
 #container{
     margin-top: 25vh;
+}
+#td button{
+    height: 3vh;
+    width: 5vw;
+    border-radius: 15px !important;
+    background-color: #fcad75;
+    color: white;
+    border: none;
+    width: 3vw;
+}
+#td button:hover{
+   background-color: #f8944d;
+}
+
+.img{
+  
+    background-size:cover ;
+    width: 5vw !important;
+}
+
+#row {
+    align-items: center;
+    background-color: #E2DBE3;
+ 
+    border-radius: 25px;
+    margin-top: 1vh;
+}
+
+.editar button{
+    background-color: rgb(46, 165, 46) !important;
+}
+
+.editar button:hover{
+    background-color: forestgreen !important;
 }
