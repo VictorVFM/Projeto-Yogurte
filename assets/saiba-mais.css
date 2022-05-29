@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: var(--primary-color);
+}
+
+#row{
+    align-items: center;
+    background-color: var(--secudary-color);
+    border-radius: 25px;
+    padding: 3vh;
+    margin-top: 2vh;
+
+}
+
+.row div {
+    text-align: center;
+}
+
+.container button{
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    border-radius: 15px;
+    padding: 0.5vh 1vw 0.5vh 1vw;
+}
+
+.container{
+    margin-bottom: 20vh;
+}
+
+.container p {
+    font-size: 25px;
+}
+
+.col-sm-2{
+    text-align: end;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid var(--primary-color);
+    display:inline-block;
+    padding-bottom: 3px;
+    
+    
+    }

@@ -19,6 +19,15 @@
 
 <body>
 
+       <!-- início do preloader -->
+  <div id="preloader">
+    <div class="inner">
+       <!-- HTML DA ANIMAÇÃO MUITO LOUCA DO SEU PRELOADER! -->
+       <img src="../images/Yogurt.gif" alt="">
+    </div>
+</div>
+<!-- fim do preloader --> 
+
     <nav>
         <a class="logo" href="/"><img src="../images/logo.png" alt=""></a>
         <div class="mobile-menu">
@@ -27,27 +36,19 @@
             <div class="line3"></div>
         </div>
         <ul class="nav-list">
-            <div><a href="html/login.html">Login</a></div>
+            <div><a href="login.html">Login</a></div>
             <div>|</div>
             </div>
-            <div><a href="html/cadastro.html">Cadastre-se</a></div><i class="fa-solid fa-user"></i>
+            <div><a href="cadastro.html">Cadastre-se</a></div><i class="fa-solid fa-user"></i>
         </ul>
     </nav>
 
     <!-- <div class="header"><a href="#">Produtos</a><i class="fa-solid fa-angle-down"></i><a href="#">Saiba Mais</a><i class="fa-solid fa-angle-down"></i><a href="#">Receitas</a><i class="fa-solid fa-angle-down"></i></div> -->
     <div class="dp-menu">
         <ul id="menu-dropdown">
-            <li><a href="#">Produtos</a><i class="fa-solid fa-angle-down"></i>
-                <ul>
-                    <li><a href="#">Produto1</a></li>
-                    <li><a href="#">Produto2</a></li>
-                    <li><a href="#">Produto3</a></li>
-                    <li><a href="#">Produto4</a></li>
-
-                </ul>
-            </li>
-            <li><a href="#">Saiba Mais</a></li>
-            <li><a href="#">Receitas</a></li>
+            <li><a href="loja.html">Produtos</a></li>
+            <li><a href="saiba-mais.html">Saiba Mais</a></li>
+            <li><a href="receitas.html">Receitas</a></li>
         </ul>
     </div>
 
@@ -325,5 +326,16 @@ Coloque-as em um recipiente refratário, cubra com o    molho e sirva a seguir. 
 
 </body>
 <script src="main/main.js"></script>
+
+<script src="../main/preloader.js"></script>
+<script>
+//<![CDATA[
+$(window).on('load', function () {
+    $('#preloader .inner').fadeOut();
+    $('#preloader').delay(10).fadeOut('slow'); 
+    $('body').delay(10).css({'overflow': 'visible'});
+  })
+  //]]>
+  </script>
 
 </html>
