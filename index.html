@@ -113,16 +113,17 @@
         <div class="right box">
             <h2>Contato</h2>
             <div class="content">
-                <form action="#">
+                <form action="https://formsubmit.co/vegurt.suporte@gmail.com" method="POST">
                     <div class="email">
                         <div class="text">Email *</div>
-                        <input type="email" required>
+                        <input type="email" name="email" required>
                     </div>
                     <div class="text">Mensagem *</div>
                     <div class="msg">
-                        
-                        <textarea rows="2" cols="25" required></textarea>
+                        <input type="hidden" name="_next" value="http://127.0.0.1:5500/html/obrigado.html">
+                        <textarea rows="2" cols="25" name="message" required></textarea>
                         <div class="btn">
+                            
                             <button type="submit">Enviar</button>
                         </div>
                     </div>
