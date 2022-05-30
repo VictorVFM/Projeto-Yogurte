@@ -14,29 +14,27 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     
-    <!-- JQuery -->
-    <script src="../main/jquery-3.3.1.min.js"></script>
-    <!-- Jquery Mask -->
-    <script src="../main/jquery.mask.min.js"></script>
-    <script>
-      $(document).ready(function(){
-        $("#teste").mask("(00) 00000-0000")
-       
+     <!-- JQuery -->
+     <script src="../main/jquery-3.3.1.min.js"></script>
+     <!-- Jquery Mask -->
+     <script src="../main/jquery.mask.min.js"></script>
+     
+ 
+     <script>
+ 
 
-      })
-    </script>
+       $(document).ready(function(){
+         $("#telefone").mask('(00) 00000-0000');
+
+        
+      
+       })
+     </script>
     <title>Cadastro</title>
   </head>
   <body>
 
-       <!-- início do preloader -->
-  <div id="preloader">
-    <div class="inner">
-       <!-- HTML DA ANIMAÇÃO MUITO LOUCA DO SEU PRELOADER! -->
-       <img src="../images/Yogurt.gif" alt="">
-    </div>
-</div>
-<!-- fim do preloader -->  
+
 
     <nav>
       <a class="logo" href="/"><img src="../images/logo.png" alt=""></a>
@@ -46,7 +44,7 @@
            <div class="line3"></div>
   </div>
   <ul class="nav-list">
-    <div><a href="login.html">Login</a></div><div>|</div></div><div><a href="../html/cadastro.html">Cadastre-se</a></div><i class="fa-solid fa-circle-user"></i>
+    <div><a href="login.html">Login</a></div><div>|</div></div><div><a href="cadastro.html">Cadastre-se</a></div><i class="fa-solid fa-circle-user"></i>
   </ul></nav>
 
   <div class="dp-menu">
@@ -72,7 +70,7 @@
         <br><br>
         
         <p>Telefone</p>
-        <input type="text" name="telefone" id="teste" maxlength="12" required>
+        <input type="text" id="telefone" maxlength="12"  required>
         <br><br>
         
         <p>Endereço</p>
@@ -100,14 +98,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 
 
-    <script src="../main/preloader.js"></script>
     <script>
     //<![CDATA[
-    $(window).on('load', function () {
-        $('#preloader .inner').fadeOut();
-        $('#preloader').delay(10).fadeOut('slow'); 
-        $('body').delay(10).css({'overflow': 'visible'});
-      })
+   
       //]]>
-      </script>
+      </script> 
 </html>

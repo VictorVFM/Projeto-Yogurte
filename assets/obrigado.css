@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+.container{
+    color: var(--primary-color);
+    font-family: 'Passion One', cursive;
+    margin: 20vh 0 50vh 0;
+    font-size: 50px !important;
+    justify-content: center;
+    align-content: center;    
+    text-align: center;
+}
+
+.container div{
+    border: 5px solid var(--primary-color);
+    display: inline-block;
+    padding: 5vh;
+    border-radius: 20px;
+}
+
+h1,h2,h3{
+    text-align: left;
+}
