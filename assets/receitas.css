@@ -2,12 +2,21 @@
     background-color: var(--secudary-color);
     padding: 10px;
     border-radius: 15px;
-    margin: 0 3vw 0 3vw;
-    
+    margin: 0 0 20vh 0;
+    width: 16vw;
 }
 
 .container{
     justify-content: center;
-    margin: 0 !important;
+  
     
+    
+    
+}
+
+.row{
+    justify-content: center;
+    
+    text-align: center;
+    align-content: center;
 }

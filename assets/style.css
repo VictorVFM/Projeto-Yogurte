@@ -34,6 +34,9 @@
 .header .fa-solid{
   color: var(--primary-color);
 }
+.fa-arrow-right-from-bracket{
+font-size: x-large;
+}
 .fa-cart-shopping{
   font-size: x-large;
   margin-right:10px ;

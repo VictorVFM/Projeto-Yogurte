@@ -182,8 +182,11 @@
             <div class="left box">
                 <h2>Sobre nós</h2>
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eos laboriosam fugit maxime
-                        laborum. </p>
+                    <p>Somos uma Empresa preocupada com a saúde de nossos clientes. Desde 2020 procurando o equilibrio
+                        perfeito entre o saudavel e o saboroso
+                        venha para a familia Vegurt.
+
+                    </p>
 
                     <div class="social">
                         <a href="#"><span class="fa-brands fa-facebook"></span></a>
@@ -208,7 +211,8 @@
 
                     <div class="e-mail">
                         <span class="fas fa-envelope"></span>
-                        <span class="text">Vegurt@gmail.com</span>
+                        <span class="text">vegurt.suporte@gmail.com
+                        </span>
 
                     </div>
 
@@ -218,16 +222,17 @@
             <div class="right box">
                 <h2>Contato</h2>
                 <div class="content">
-                    <form action="#">
+                    <form action="https://formsubmit.co/vegurt.suporte@gmail.com" method="POST">
                         <div class="email">
                             <div class="text">Email *</div>
-                            <input type="email" required>
+                            <input type="email" name="email" required>
                         </div>
                         <div class="text">Mensagem *</div>
                         <div class="msg">
-
-                            <textarea rows="2" cols="25" required></textarea>
+                            <input type="hidden" name="_next" value="http://127.0.0.1:5500/html/obrigado.html">
+                            <textarea rows="2" cols="25" name="message" required></textarea>
                             <div class="btn">
+
                                 <button type="submit">Enviar</button>
                             </div>
                         </div>
