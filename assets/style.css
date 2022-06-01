@@ -30,11 +30,17 @@
  
   color: var(--primary-color);
 }
+
 .header .fa-solid{
   color: var(--primary-color);
 }
+.fa-cart-shopping{
+  font-size: x-large;
+  margin-right:10px ;
+}
 .fa-circle-user{
   font-size: xx-large;
+  margin-right:10px ;
 }
 a{
   color: var(--text-color) !important;
@@ -73,6 +79,7 @@ main{
 .nav-list div{
   margin-right:10px ;
   color: var(--text-color);
+  
 }
 .nav-list li{
   letter-spacing: 3px;
@@ -194,55 +201,6 @@ color: var(--primary-color) !important;
 
 /* body */
 
-.receitas {
-  margin-left: 2vw;
- font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  display: flex;
-  margin: 2vh;
-  
-}
-
-.receitas  h1{
-  color: #D7D463;
-  margin-left: 1vw;
-}
-.receitas div{
-
-  width: 33vw;
-  border-left:1px solid #D7D463;
-  padding-left: 10px;
- 
-}
-
-
-.receitas div ul li{
-  margin-left: 1.5vw;
-}
-
-.receitas div ol li {
-  margin-top: 1vh;
-  margin-left: 1vw;
-}
-.receitas div h2{
-  
-  margin-bottom: 1vh;
-}
-
-#receitas-center h2{
-  margin-bottom: 2vh;
-}
-
-#receitas-center h3{
-  margin-top: 2vh;
-}
-
-#receitas-right ol li {
-  margin-top: 3vh;
-}
-
-#receitas-right h3{
-  margin-top: 2vh;
-}
 
 
 /*end  body */

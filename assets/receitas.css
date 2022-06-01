@@ -1,0 +1,13 @@
+.caixa{
+    background-color: var(--secudary-color);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0 3vw 0 3vw;
+    
+}
+
+.container{
+    justify-content: center;
+    margin: 0 !important;
+    
+}
