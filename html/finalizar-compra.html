@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="../assets/style.css">
-    <link rel="stylesheet" href="../assets/editar-usuario.css">
+    <link rel="stylesheet" href="../assets/finalizar-compra.css">
     <link rel="stylesheet" href="../assets/footer.css">
     <script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
 
@@ -20,7 +20,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Editar Usuário</title>
+    <title>Finalizar compra</title>
 </head>
 <body>
       
@@ -32,82 +32,136 @@
             <div class="line3"></div>
         </div>
         <ul class="nav-list">
-            <div><a href="login.html">Login</a></div>
-            <div>|</div>
-            </div>
-            <div><a href="cadastro.html">Cadastre-se</a></div><a href="editar-usuario.html">
+            <div><a href="login.html">Ola,usuário</div><a href="editar-usuario.html">
                 <div><i class="fa-solid fa-circle-user"></i></div>
             </a><a href="carrinho-de-compras.html">
-                <div><i class="fa-solid fa-cart-shopping"></i></div>
-            </a>
+                <div><i class="fa-solid fa-cart-shopping"></i></div></a>
+                <a href="">
+                    <div ><i class="fa-solid fa-arrow-right-from-bracket" title="Sair"></i></div>
+                </a>
+            
         </ul>
     </nav>
 
     
     <div class="dp-menu">
         <ul id="menu-dropdown">
-            <li><a href="html/loja.html">Produtos</a></li>
-
-            <li><a href="html/saiba-mais.html">Saiba Mais</a></li>
-            <li><a href="html/receitas.html">Receitas</a></li>
+            <li><a href="#">Produtos</a>
+        </li>
+            <li><a href="#">Saiba Mais</a></li>
+            <li><a href="#">Receitas</a></li>
         </ul>
     </div>
 
-
     <!-- Header -->
+    <div class="container">
+        <div class="row">
+         
+          <div class="col-sm">
+            <h1>Metodos de Pagamento</h1>
+          </div>
+          
+        </div>
+
+        <div class="row">
+         
+            <div class="col-sm-5">
+              <div>
+                
+                  <div id="pix" >
+                    <div style="display: flex;">
+                        <i class="fa-brands fa-pix"></i>
+                        <h2>Pix</h2>
+                    </div>
+                  </div>
+              </div>
 
 
+            </div>
 
-    <div class="tela-cadastro">
-        <form action="#">
-            <h1>Editar Usuário</h1>
+            <div class="col-sm-7">
+                <div>
+                    <h4>Pix</h4>
+                    <p>A melhor opção para suas compras à vista <br>
+                        Pague com PIX e aproveite até 15% OFF. Nessa modalidade, seu pedido é aprovado <br> instantaneamente, o que torna a expedição do seu pedido ainda mais rápida. <br>
+                    
+                        O que você precisa saber antes de pagar por PIX: <br>
+                        É necessário possuir uma chave PIX cadastrada no seu Banco; <br>
+                        Com o seu celular, basta escanear o QR Code ou copiar o código para efetivar a compra; <br>
+                        O pagamento é processado e debitado do valor em sua conta corrente; <br>
+                        </p>
+                </div>
+              </div>
+            
+          </div>
 
-          <div>              
-              <p>Nome Completo:</p>
-              <input type="text" name="" id="nome"  required>
+          <div class="row">
+         
+            <div class="col-sm-5">
+              <div>
+                  <div id="boleto"  >
+                    <div style="display: flex;">
+                        <i class="fa-solid fa-barcode"></i>
+                        <h2>Boleto Bancario</h2>
+                    </div>
+                  </div>
+              </div>
+
+              
+            </div>
+
+            <div class="col-sm-7">
+                <div>
+                    <h4>Boleto Bancário</h4>
+                    <p>
+
+                        Boleto tem até 15% de desconto na compra e é a forma de pagamento que recebe o maior <br> desconto sob o valor total da compra. Esta é a forma mais vantajosa para quem deseja <br> pagar à vista. Você poderá efetuar o pagamento do boleto em qualquer Banco ou Casa <br> Lotérica em qualquer lugar do Brasil, sem necessidade de confirmação do pagamento.
+                        </p>
+                </div>
+              </div>
+            
+          </div>
+      </div>
+    
+
+    <div class="container" id="container">
+        <div class="row">
+          <div class="col-sm-6">
+           <h2>Subtotal:</h2>
+          </div>
+          <div class="col-sm-6">
+            <h3>R$96,04</h3>
           </div>
          
-          <br><br>
-          <div>
-              <p>E-mail:</p>
-              <input type="email" name="" id="login"  required>
-          </div>
-          <br><br>
-          
-          <div>
-              <p>Senha:</p>
-              <input type="password" name="" id="password" required>
-          </div>
-          <br><br>
-          
-          <div>
-              <p>Telefone:</p>
-              <input type="text" id="telefone" maxlength="12"  required>
-          </div>
-          <br><br>
-          
-          <div>
-              <p>Endereço:</p>
-              <input type="text" name="" id="endereco" required>
-          </div>
-          
-       
-       
-     
-        
-        <div class="button"><button type="submit" id="enviar">Salvar</button> <button>Deletar</button></div>
+        </div>
 
-        <br>
-        
-       
-      </form>
-  
-    </div>
-  </div>
+        <div class="row">
+            <div class="col-sm-6">
+              <h2>Cupom:</h2>
+            </div>
+            <div class="col-sm-6">
+                <h3>R$96,04</h3>
+            </div>
+           
+          </div>
+
+          <div class="row">
+            <div class="col-sm-6">
+              <h2>Total:</h2>
+            </div>
+            <div class="col-sm-6">
+                <h3>R$96,04</h3>
+            </div>
+           
+          </div>
+
+
+      </div> 
+
 
     <!-- Footer -->
 
-    <!-- <footer>
+    <footer>
         <div class="main-content">
             <div class="left box">
                 <h2>Sobre nós</h2>
@@ -170,7 +224,7 @@
                     </form>
                 </div>
             </div>
-    </footer> -->
+    </footer>
    
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
