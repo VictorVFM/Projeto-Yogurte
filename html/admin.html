@@ -47,27 +47,39 @@
     <div class="dp-menu">
         <ul id="menu-dropdown">
             <li><a href="#">Produtos</a><i class="fa-solid fa-angle-down"></i>
-            <ul>
-                <li><a href="#">Produto1</a></li>
-                <li><a href="#">Produto2</a></li>
-                <li><a href="#">Produto3</a></li>
-                <li><a href="#">Produto4</a></li>
-               
-            </ul>
-        </li>
-            <li><a href="#">Saiba Mais</a></li>
-            <li><a href="#">Receitas</a></li>
-        </ul>
+         
     </div>
 
     <!-- Header -->
     <div class="container">
         <div class="row">
-          <div class="col-sm">
-            <div>One of three columns</div>
+          <div class="col-sm-6">
+            <a href="cadastrar-produtos.html">
+                <div class="box-container"><h2>Cadastrar Produtos</h2> <img src="../images/new-product.png" alt=""> </div>
+            </a>
+          </div>
+          <div class="col-sm-6">
+            <a href="produtos-cadastrados.html">
+                <div class="box-container"><h2>Produtos Cadastrados</h2><img src="../images/search.png" alt=""></div>
+            </a>
           </div>
          
         </div>
+
+        <div class="row">
+            <div class="col-sm-6">
+              <a href="usuarios-cadastrados.html">
+                  <div class="box-container"><h2>Usuários Cadastrados</h2> <i class="fa-solid fa-users"></i></div>
+              </a>
+            </div>
+            <div class="col-sm-6">
+              <a href="/">
+                  <div class="box-container"><h2>Inicio</h2><i class="fa-solid fa-house"></i></div>
+              </a>
+            </div>
+           
+          </div>
+
       </div>
     
 
@@ -78,59 +90,66 @@
             <div class="left box">
                 <h2>Sobre nós</h2>
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eos laboriosam fugit maxime laborum. </p>
-                
-                <div class="social">
-                    <a href="#"><span class="fa-brands fa-facebook"></span></a>
-                    <a href="#"><span class="fa-brands fa-twitter"></span></a>
-                    <a href="#"><span class="fa-brands fa-instagram"></span></a>
-                    <a href="#"><span class="fa-brands fa-youtube"></span></a>                            
+                    <p>Somos uma Empresa preocupada com a saúde de nossos clientes. Desde 2020 procurando o equilibrio
+                        perfeito entre o saudavel e o saboroso
+                        venha para a familia Vegurt.
+
+                    </p>
+
+                    <div class="social">
+                        <a href="#"><span class="fa-brands fa-facebook"></span></a>
+                        <a href="#"><span class="fa-brands fa-twitter"></span></a>
+                        <a href="#"><span class="fa-brands fa-instagram"></span></a>
+                        <a href="#"><span class="fa-brands fa-youtube"></span></a>
+                    </div>
                 </div>
-            </div> 
-        </div>
+            </div>
             <div class="center box">
-            <h2>Endereço</h2>
-            <div class="content">
-                <div class="place">
-                    <span class=" fas fa-solid fa-location-pin"></span>
-                    <span class="text">AV.Saudade, Florence</span>
-                </div>
-
-                <div class="phone">
-                    <span class="fas fas fa-phone-alt"></span>
-                    <span class="text">+55 011 99265-8741</span>                    
-                </div>
-
-                <div class="e-mail">
-                    <span class="fas fa-envelope"></span>
-                    <span class="text">Vegurt@gmail.com</span>
-                    
-                </div>
-               
-            </div>
-        </div>
-        
-        <div class="right box">
-            <h2>Contato</h2>
-            <div class="content">
-                <form action="#">
-                    <div class="email">
-                        <div class="text">Email *</div>
-                        <input type="email" required>
+                <h2>Endereço</h2>
+                <div class="content">
+                    <div class="place">
+                        <span class=" fas fa-solid fa-location-pin"></span>
+                        <span class="text">AV.Saudade, Florence</span>
                     </div>
-                    <div class="text">Mensagem *</div>
-                    <div class="msg">
-                        
-                        <textarea rows="2" cols="25" required></textarea>
-                        <div class="btn">
-                            <button type="submit">Enviar</button>
+
+                    <div class="phone">
+                        <span class="fas fas fa-phone-alt"></span>
+                        <span class="text">+55 011 99265-8741</span>
+                    </div>
+
+                    <div class="e-mail">
+                        <span class="fas fa-envelope"></span>
+                        <span class="text">vegurt.suporte@gmail.com
+                        </span>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="right box">
+                <h2>Contato</h2>
+                <div class="content">
+                    <form action="https://formsubmit.co/vegurt.suporte@gmail.com" method="POST">
+                        <div class="email">
+                            <div class="text">Email *</div>
+                            <input type="email" name="email" required>
                         </div>
-                    </div>
-                    
-                </form>
+                        <div class="text">Mensagem *</div>
+                        <div class="msg">
+                            <input type="hidden" name="_next" value="http://127.0.0.1:5500/html/obrigado.html">
+                            <textarea rows="2" cols="25" name="message" required></textarea>
+                            <div class="btn">
+
+                                <button type="submit">Enviar</button>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
             </div>
-        </div>
     </footer>
+
    
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>

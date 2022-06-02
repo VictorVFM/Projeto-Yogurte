@@ -1,4 +1,26 @@
 .container{
     
     text-align: center;
+    margin: 10vh 0 20vh 0;
+}
+.box-container{
+    border: 5px solid var(--primary-color);
+    padding: 10vh 5vw 10vh 5vw;
+    margin: 0 0 5vh 0;
+    border-radius: 20px;
+    color: var(--primary-color);
+}
+
+.box-container:hover{
+    background-color: var(--secudary-color);
+   
+    box-shadow: 17px 17px 10px 2px rgba(0,0,0,0.39);
+}
+.box-container i{
+    font-size: 10vh;
+}
+
+.box-container img{
+    width: 150px;
+    height: 150px;
 }
