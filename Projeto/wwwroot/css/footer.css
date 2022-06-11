@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+footer{
+   
+    bottom: 0px;
+    width: 100%;
+    background: #535272;
+    color: var(--text-color);
+}
+
+footer a{
+    color: var(--text-color);
+}
+.main-content{
+    display: flex;
+}
+.main-content .box{
+    flex-basis: 50%;
+    padding: 10px 20px; 
+}
+.box h2{
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.box .content{
+    margin: 20px 0 0 0;
+    position: relative;
+}
+.box .content:after{
+    position: absolute;
+    content: '';
+    width: 15%;
+    height: 2px;
+    background: #7d7889;
+    top: -10px;
+}
+.box .content:before{
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 100%;
+    background: var(--primary-color);
+    top: -10px;
+}
+.left .content .social{
+    margin: 20px 0 0 0;
+}
+.left .content .social a{
+    padding: 0 20px;
+}
+.left .content .social a span{
+    width: 40px;
+    height: 40px;
+    background-color: var(--primary-color);
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.left .content .social a span:hover{
+background: var(--secudary-color);
+color: black;
+}
+
+.left .content p{
+    text-align: justify;
+}
+
+.center .content .fas{
+    font-size: 23px;
+    background: var(--primary-color);
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 50%;  
+    transition: 0.3s;  
+    cursor: pointer;
+}
+
+.center .content .fas:hover{
+    background: var(--secudary-color);
+    color: black;
+    
+}
+.center .content .text{
+    font-size:12px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.center .content .phone{
+    margin: 10px 0;
+}
+.center .content .msg{
+    margin-top: 10px;
+}
+.right form input, .right form textarea {
+    width: 100%;
+    font-size: 16px;
+    background: var(--primary-color);
+    padding-left: 10px;
+    border: 1px solid var(--text-color);
+    margin-right: 10px;
+    resize: none;
+    color: var(--text-color)
+}
+.right form input{
+    height: 35px;
+}
+.right form input:focus,
+ .right form textarea:focus{
+     outline-color: #7d7889;
+ }
+ .right form .text{
+     font-size: 12px;
+     margin-bottom: 2px;
+     color: var(--text-color);
+ }
+ .msg{
+     display: flex;
+     align-items: center;
+    
+ }
+ 
+ .right form .btn button{
+     padding: 9px;
+     width: 100%;
+     background: none;
+     font-size: 12px;
+     font-weight: 500;
+     cursor: pointer;
+     transition: 0.3s;
+     color: white;
+     border: 1px solid white;
+    
+    
+ }
+
+ .right form .btn button:hover{
+background: #b5b2bc;
+color: black;
+}
+
+@media screen and (max-width: 900px){
+    footer{
+        position: fixed           ;
+        bottom:0px;
+    }
+    .main-content{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .main-content .box{
+        margin: 5px 0;
+    }
+}
+

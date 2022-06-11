@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/finalizar-compra.css">
+    <link rel="stylesheet" href="~/css/footer.css">
+    <script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
+
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finalizar compra</title>
+<body>
+    <!-- Header -->
+    <div class="container">
+        <div class="row">
+         
+          <div class="col-sm">
+            <h1>Metodos de Pagamento</h1>
+          </div>
+          
+        </div>
+
+        <div class="row">
+         
+            <div class="col-sm-5">
+              <div>
+                
+                        <a asp-controller="Vendas" asp-action="Compra">
+
+                  <div id="pix" >
+                    <div style="display: flex;">
+                            <i class="fa-brands fa-pix"></i>
+                            <h2>Pix</h2>
+                    </div>
+                  </div>
+                        </a>
+
+              </div>
+
+
+            </div>
+
+            <div class="col-sm-7">
+                <div>
+                    <h4>Pix</h4>
+                    <p>A melhor opção para suas compras à vista <br>
+                        Pague com PIX e aproveite até 15% OFF. Nessa modalidade, seu pedido é aprovado <br> instantaneamente, o que torna a expedição do seu pedido ainda mais rápida. <br>
+                    
+                        O que você precisa saber antes de pagar por PIX: <br>
+                        É necessário possuir uma chave PIX cadastrada no seu Banco; <br>
+                        Com o seu celular, basta escanear o QR Code ou copiar o código para efetivar a compra; <br>
+                        O pagamento é processado e debitado do valor em sua conta corrente; <br>
+                        </p>
+                </div>
+              </div>
+            
+          </div>
+
+          <div class="row">
+         
+            <div class="col-sm-5">
+              <div>
+                        <a asp-controller="Vendas" asp-action="Compra">
+
+                  <div id="boleto"  >
+                    <div style="display: flex;">
+                            <i class="fa-solid fa-barcode"></i>
+                            <h2>Boleto Bancario</h2>
+                    </div>
+                  </div>
+                        </a>
+
+              </div>
+
+              
+            </div>
+
+            <div class="col-sm-7">
+                <div>
+                    <h4>Boleto Bancário</h4>
+                    <p>
+
+                        Boleto tem até 15% de desconto na compra e é a forma de pagamento que recebe o maior <br> desconto sob o valor total da compra. Esta é a forma mais vantajosa para quem deseja <br> pagar à vista. Você poderá efetuar o pagamento do boleto em qualquer Banco ou Casa <br> Lotérica em qualquer lugar do Brasil, sem necessidade de confirmação do pagamento.
+                        </p>
+                </div>
+              </div>
+            
+          </div>
+      </div>
+</body>
+</html>

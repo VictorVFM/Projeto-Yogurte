@@ -1,0 +1,161 @@
+﻿@model IEnumerable<Projeto.Models.Produtos>
+
+@{
+    ViewData["Title"] = "ListarAdm";
+}
+
+<link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/produtos-cadastrados.css">
+    <link rel="stylesheet" href="~/css/footer.css">
+    <script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
+
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos Cadastrados</title>
+
+       <!-- início do preloader -->
+  <div id="preloader">
+    <div class="inner">
+       <!-- HTML DA ANIMAÇÃO MUITO LOUCA DO SEU PRELOADER! -->
+       <img src="~/images/Yogurt.gif" alt="">   
+    </div>
+</div>
+
+<p>@TempData["msg"]</p>
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Produtos Cadastrados</h1>
+      </div>
+     
+    </div>
+
+    <div class="row">
+        <div class="col-sm-1">
+            <div id="th"></div>
+        </div>
+
+        <div class="col-sm-1">
+            <div id="th">ID</div>
+        </div>
+       
+        <div class="col-sm-2">
+            <div id="th">Nome do Produto</div>
+        </div>
+        
+        
+
+        <div class="col-sm-2">
+            <div id="th">Preço</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="th">Quantidade</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="th">Descrição</div>
+        </div>
+
+        <div class="col-sm-1">
+            <div id="th"></div>
+        </div>
+
+        <div class="col-sm-1">
+            <div id="th"></div>
+        </div>
+        
+
+        @foreach (var item in Model)
+        {
+           <div class="row" id="row">
+          
+
+          @{
+                    List<string> imagem = new List<string>();
+
+                    foreach (byte[] lista in item.Img)
+                    {
+                        if(lista != null)
+                        {
+                            if(imagem.Count == 0)
+                            {
+                                imagem.Add(Convert.ToBase64String(lista));
+                            }
+                        }
+                    }
+
+                    @foreach (string file in imagem)
+                    {
+                        string formato = "data:image/jpeg;base64," + file;
+                            <div class="col-sm-1">
+                                <div id="td"><img  class="img" src="@formato" alt=""></div>
+                            </div>
+                    }
+                }
+
+          <div class="col-sm-1">
+            <div id="td">1</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="td">@item.NomeProduto</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="td">R$@item.Preco</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="td">@item.Qtd</div>
+        </div>
+
+        <div class="col-sm-2">
+            <div id="td">@item.Desc</div>
+        </div>
+
+        <div class="col-sm-1">
+            <div id="td" class="editar"><button>@Html.ActionLink("Editar", "Editar", new { id = item.Id })</button></div>
+        </div>
+
+         @{
+                        if (item.Qtd > 0)
+                        {
+                            <div class="col-sm-1">
+                                <div id="td"><button>@Html.ActionLink("Inativar", "Inativar", new { id = item.Id })</button></div>
+                             </div>
+                            
+                        }
+                    }
+        
+      </div>
+        }
+    </div>
+</div>
+
+ <script src="~/js/preloader.js"></script>
+<script>
+//<![CDATA[
+$(window).on('load', function () {
+    $('#preloader .inner').fadeOut();
+    $('#preloader').delay(10).fadeOut('slow'); 
+    $('body').delay(10).css({'overflow': 'visible'});
+  })
+  //]]>
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

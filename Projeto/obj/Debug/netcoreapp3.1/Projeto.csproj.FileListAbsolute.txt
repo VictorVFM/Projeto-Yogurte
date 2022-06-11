@@ -1,0 +1,1196 @@
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.xml
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto.styles.css
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.xml
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto.styles.css
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\aluno\OneDrive\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.StaticWebAssets.xml
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\danna\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.xml
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto.styles.css
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\Downloads\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.StaticWebAssets.xml
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Downloads\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.StaticWebAssets.xml
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Desktop\_PROJETO DE SEMESTRE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.xml
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto.styles.css
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\aluno\Downloads\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.StaticWebAssets.xml
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\danna\Desktop\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.StaticWebAssets.xml
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.Views.pdb
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ZstdNet.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.input.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.TagHelpers.output.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorCoreGenerate.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Saiba.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Cadastrar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Carrinho.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Editar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Listar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\ListarAdm.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\AreaAdmin.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Cadastrar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Editar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Listar.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Compras.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\FinalizarCompra.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cache
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorTargetAssemblyInfo.cs
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.Views.pdb
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CopyComplete
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+F:\Senai\2DSB\PWFE\OneDrive_2022-06-08 (2)\OneDrive_2022-06-08\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache

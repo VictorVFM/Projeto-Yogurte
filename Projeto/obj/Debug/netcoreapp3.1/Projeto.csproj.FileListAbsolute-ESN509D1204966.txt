@@ -1,0 +1,7 @@
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cache
+C:\Users\aluno\OneDrive - SESISENAISP - Escolas\Senai 2022\PWBE\_PROJETO DE SEMESTRE\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.RazorAssemblyInfo.cs

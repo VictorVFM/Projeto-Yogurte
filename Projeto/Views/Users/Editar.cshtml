@@ -1,0 +1,90 @@
+﻿@model Projeto.Users
+@using Microsoft.AspNetCore.Http;
+@using Newtonsoft.Json;
+
+@{
+    ViewData["Title"] = "Editar";
+
+    Users user = JsonConvert.DeserializeObject<Users>(Context.Session.GetString("user"));
+
+    IEnumerable<Users> dados = ViewData["dados"] as IEnumerable<Users>;
+}
+
+
+<link rel="stylesheet" href="~/css/style.css">
+<link rel="stylesheet" href="~/css/editar-usuario.css">
+<link rel="stylesheet" href="~/css/footer.css">
+<script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
+
+
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+<div class="tela-cadastro">
+
+    <p>@TempData["msg"]</p>
+
+    <form asp-action="Editar">
+
+        @foreach (var item in dados)
+        {
+            <input type="hidden" name="id" class="form-control" value="@TempData["id"]" />
+
+            <h1>Editar Usuário</h1>
+
+            @if (user.Tipo == "adm")
+            {
+
+                <div>
+                    <p>Tipo Usuário:</p>
+                    <input type="text" name="tipo" value="@item.Tipo" id="nome" required>
+                </div>
+
+                <div>
+                    <p>Status Usuário:</p>
+                    <input type="text" name="status" value="@item.Status" id="nome" required>
+                </div>
+
+            }
+
+            <div>
+                <p>Nome Completo:</p>
+                <input type="text" name="nomeCompleto" value="@item.NomeCompleto" id="nome" required>
+            </div>
+
+            <div>
+                <p>E-mail:</p>
+                <input type="email" name="email" value="@item.Email" id="nome" disabled>
+            </div>
+
+            <div>
+                <p>Senha:</p>
+                <input type="password" name="senha" value="@item.Senha" id="nome" required>
+            </div>
+
+            <div>
+                <p>Telefone:</p>
+                <input type="text" name="telefone" id="telefone" maxlength="12" value="@item.Telefone" required>
+            </div>
+
+            <div>
+                <p>Endereço:</p>
+                <input type="text" name="endereco" id="endereco" value="@item.Endereco" required>
+            </div>
+            <div class="button">
+                <button type="submit" id="enviar">Salvar</button>
+                <button>@Html.ActionLink("Deletar", "Inativar", new { id = item.Email })</button>
+            </div>
+        }
+
+    </form>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

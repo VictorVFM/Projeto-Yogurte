@@ -1,0 +1,102 @@
+.container{
+    justify-content: center;
+    text-align: center;
+
+    margin: 10vh 11vw 27vh 11vw;
+    
+    }
+    
+    #tr{
+        display: flex;
+        justify-content: center;
+    
+    }
+#th {
+    font-weight: bold;
+    text-align: center;
+   
+    color: var(--primary-color);
+
+    margin-top: 30px;
+}
+    
+    #td{
+        text-align: center;
+        margin-left:1vw.
+        
+    }
+    
+    h1{
+        text-align: center;
+        margin-top: 25vh;
+        color: var(--primary-color);
+    
+    }
+    
+    #td button {
+      
+        margin-top: 15px;
+        margin-bottom: 6px;
+       
+    }
+
+
+    #td button{
+        height: 3vh;
+        width: 4vw !important;
+        border-radius: 15px !important;        
+        color: white;
+        border: none;
+    }
+.botao button{
+    background-color: #fcad75 !important;
+}
+.botao button:hover {
+    background-color: #f8944d;
+}
+
+.div {
+    margin-top: -200px;
+}
+    
+  
+    
+    #row {
+        align-items: center;
+        background-color: #E2DBE3;
+     
+        border-radius: 25px;
+        margin-top: 1vh;
+
+    }
+
+  
+
+    
+    .editar button{
+        background-color: rgb(46, 165, 46) !important;
+    }
+    
+    .editar button:hover{
+        background-color: forestgreen !important;
+    }
+.fa-circle-arrow-down{
+    color:brown;
+    
+}
+.fa-circle-arrow-up{
+    color: seagreen;
+}
+
+
+.trocar div button a{
+    background-color:var(--primary-color);
+    padding:0.2vw;
+    border-radius:10px;
+    margin-right:5px
+}
+
+.trocar div button{
+    border:none;
+    background-color:var(--secudary-color);
+}

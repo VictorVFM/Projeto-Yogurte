@@ -1,0 +1,167 @@
+﻿@model IEnumerable<Projeto.Users>
+@using Microsoft.AspNetCore.Http;
+@using Newtonsoft.Json;
+
+@{
+    ViewData["Title"] = "Listar";
+    Users user = JsonConvert.DeserializeObject<Users>(Context.Session.GetString("user"));
+}
+
+<link rel="stylesheet" href="~/css/style.css">
+<link rel="stylesheet" href="~/css/usuarios-cadastrados.css">
+<link rel="stylesheet" href="~/css/footer.css">
+<script src="https://kit.fontawesome.com/15068104d6.js" crossorigin="anonymous"></script>
+
+
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Usuários Cadastrados</title>
+
+    <!-- início do preloader -->
+    <div id="preloader">
+        <div class="inner">
+            <!-- HTML DA ANIMAÇÃO MUITO LOUCA DO SEU PRELOADER! -->
+            <img src="../images/Yogurt.gif" alt="">
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <p>@TempData["msg"]</p>
+
+                <h1>Usuários Cadastrados</h1>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+
+            <div class="col-sm-1">
+                <div id="th">Tipo</div>
+            </div>
+
+            <div class="col-sm-1">
+                <div id="th">Status</div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="th">Nome Completo</div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="th">E-mail</div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="th">Endereço</div>
+            </div>
+
+            <div class="col-sm-4">
+                <div id="th">Modificar usuário</div>
+            </div>
+
+          
+
+        </div>
+    </div>
+
+
+
+<div class="div container">
+    @foreach (var item in Model)
+{
+
+<div class="row" id="row">
+
+    <div class="col-sm-1">
+        <div id="td">@item.Tipo</div>
+    </div>
+
+    <div class="col-sm-1">
+        <div id="td">@item.Status</div>
+    </div>
+
+    <div class="col-sm-2">
+        <div id="td">@item.NomeCompleto</div>
+    </div>
+
+    <div class="col-sm-2">
+        <div id="td">@item.Email</div>
+    </div>
+
+    <div class="col-sm-2">
+        <div id="td">@item.Endereco</div>
+    </div>
+
+    <div class="col-sm-1">
+        <div id="td" class="editar"><button>@Html.ActionLink("Editar", "Editar", new { id = item.Email })</button></div>
+       
+    </div>
+
+    @{
+        if (item.Status == "ativado")
+        {
+
+                    <div class="col-sm-1" id="coisa">
+                        <div class="botao"  id="td"><button>@Html.ActionLink("Inativar", "Inativar", new { id = item.Email })</button></div>
+                        
+                    </div>
+
+        }
+        else
+        {
+                    <div class="col-sm-1" id="coisa">
+                        <div class="botao" id="td"><button> @Html.ActionLink("Ativar", "Ativar", new { id = item.Email })</button></div>
+                       
+                    </div>
+        }
+
+
+        }
+
+         
+        @{
+        if(item.Tipo == "adm") {
+            <div class="col-sm-2 trocar" id="coisa" >
+            <div><button>@Html.ActionLink("Trocar para user", "TrocarParaUser", new { id = item.Email })<i class="fa-solid fa-circle-arrow-down"></i></button></div>
+            
+            </div>
+        } else
+        {
+
+            <div class="col-sm-2 trocar" id="coisa" >
+            <div><button>@Html.ActionLink("Trocar para adm ", "TrocarParaAdm", new { id = item.Email })<i class="fa-solid fa-circle-arrow-up"></i></button></div>
+            </div>
+            
+        }            
+        } 
+</div>
+}
+</div>
+
+    <script src="~/js/preloader.js"></script>
+    <script>
+        //<![CDATA[
+        $(window).on('load', function () {
+            $('#preloader .inner').fadeOut();
+            $('#preloader').delay(10).fadeOut('slow');
+            $('body').delay(10).css({ 'overflow': 'visible' });
+        })
+          //]]>
+    </script>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }

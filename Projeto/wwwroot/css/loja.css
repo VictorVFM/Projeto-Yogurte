@@ -1,0 +1,57 @@
+
+
+#loja-teste{
+   
+    margin-bottom: 30px;
+  
+    
+}
+
+
+#loja-teste1{
+   
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20vh;
+}
+.loja-image{
+    
+    margin: 30px 30px 30px 30px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+    .loja-image button {
+        background-color: #d7d463;
+        color: black;
+        padding: 7px 40px 7px 40px;
+        border-radius: 25px;
+        border: none;
+        margin-left: 20px;
+    }
+
+.loja-image h3{
+color: var(--laranja);
+}
+.loja-image p{
+    margin-top: 5px;
+    }
+ 
+.loja-image div i{
+font-size: 25px;
+
+}    
+.loja-image div i:hover{
+color: green;
+cursor: pointer;
+        
+}
+
+
+
+.image {
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+}
