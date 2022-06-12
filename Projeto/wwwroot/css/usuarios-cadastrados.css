@@ -2,7 +2,7 @@
     justify-content: center;
     text-align: center;
 
-    margin: 10vh 11vw 27vh 11vw;
+    margin: 10vh 11vw 11vw 11vw;
     
     }
     
@@ -99,4 +99,9 @@
 .trocar div button{
     border:none;
     background-color:var(--secudary-color);
+}
+
+.col-sm-4 div{
+    background-color: var(--primary-color);
+    color: var(--text-color) !important;
 }

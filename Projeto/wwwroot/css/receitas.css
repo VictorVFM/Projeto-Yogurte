@@ -2,14 +2,14 @@
     background-color: var(--secudary-color);
     padding: 10px;
     border-radius: 15px;
-    margin: 0 0 20vh 0;
+ 
     width: 16vw;
 }
 @import url('https://fonts.googleapis.com/css2? family= Seaweed+Script & display=swap');
 .container{
     justify-content: center;
-  
-    
+
+    margin-bottom:10vh;
     
     
 }
@@ -26,3 +26,4 @@ h1{
     font-family: 'Seaweed Script', cursive;
     text-align: left;
 }
+

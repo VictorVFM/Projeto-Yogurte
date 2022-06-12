@@ -24,7 +24,7 @@ h1{
 }
 
 .container{
-    margin-bottom: 127vh ;
+    margin-bottom: 40vw ;
 }
 
 .container p {
@@ -43,3 +43,6 @@ h1{
     
     
     }
+.pb-3 {
+    padding-bottom: 0px !important; 
+}
